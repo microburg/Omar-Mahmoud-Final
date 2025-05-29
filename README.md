@@ -1,8 +1,8 @@
 # 🔐 Secure Communication Project: RSA, Digital Signatures, and AES
 
 ## 👥 Authors
-- **Omar** – `Student_A.py`
-- **Mahmoud** – `Student_B.py`
+- **Omar** – 202201120 -`Student_A.py`
+- **Mahmoud** – 202201930 -`Student_B.py`
 
 ---
 
