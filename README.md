@@ -146,12 +146,12 @@ Open two terminals:
 
 1. Start Student A (initiator):
 ```python
-python Student_A.py
+python Omar.py
 ```
 
 2. Then start Student B:
 ```python
-python Student_B.py
+python Mahmoud.py
 ```
 ---
 
